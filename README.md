@@ -71,3 +71,4 @@ EVALUATE
 - Applied advanced data manipulation techniques for analyzing sales across different product categories, states, and customer segments.
 
 ## Dashboard Snapshot
+![Dashboard](https://github.com/user-attachments/assets/abc4bd0c-554c-4237-a8d0-fd5123b6a6ff)
