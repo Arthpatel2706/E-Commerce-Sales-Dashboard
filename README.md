@@ -10,6 +10,9 @@ This repository contains an interactive Power BI dashboard that provides deep in
 ## Overview  
 The **E-Commerce Sales Dashboard** visualizes various key performance indicators (KPIs) and allows users to explore data through dynamic filtering. It supports detailed insights on total sales, profit, and order quantity, as well as top-performing states, customers, and product categories.
 
+## Dashboard Snapshot
+![Dashboard](https://github.com/user-attachments/assets/abc4bd0c-554c-4237-a8d0-fd5123b6a6ff)
+
 ### Key Features:
 - **Sales Metrics**: Displaying total **Sales Amount**, **Profit**, **Quantity Sold**, and **Average Order Value (AOV)**.  
   *AOV = Amount ÷ Quantity* (Calculated using DAX).
@@ -70,5 +73,4 @@ EVALUATE
 - Visualized multiple types of data using bar charts, pie charts, donut charts, and line charts to represent different sales metrics, product performance, and regional insights.
 - Applied advanced data manipulation techniques for analyzing sales across different product categories, states, and customer segments.
 
-## Dashboard Snapshot
-![Dashboard](https://github.com/user-attachments/assets/abc4bd0c-554c-4237-a8d0-fd5123b6a6ff)
+
