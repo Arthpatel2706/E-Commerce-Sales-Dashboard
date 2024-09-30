@@ -66,11 +66,4 @@ EVALUATE
     TOPN(100, 'Details')
 ```
 
-## Project Learnings  
-- Successfully created a **one-to-many relationship** model in Power BI to combine sales order data with detailed transactional data.
-- Developed a dynamic, interactive dashboard with drill-down capabilities using **Power BI filters** and **slicers**.
-- Created custom measures using **DAX** to compute important KPIs like **Average Order Value (AOV)**.
-- Visualized multiple types of data using bar charts, pie charts, donut charts, and line charts to represent different sales metrics, product performance, and regional insights.
-- Applied advanced data manipulation techniques for analyzing sales across different product categories, states, and customer segments.
-
 
